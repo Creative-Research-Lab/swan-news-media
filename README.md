@@ -18,7 +18,7 @@
 ## 🚀 Getting Started
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/swan-ai-news.git
+git clone https://github.com/your-username/swan-ai-news.git](https://github.com/Creative-Research-Lab/swan-news-media.git
 
 # Navigate to the project directory
 cd swan-ai-news
